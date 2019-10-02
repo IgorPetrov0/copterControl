@@ -2,6 +2,8 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include "usbcore.h"
+#include "serialportsdialog.h"
 
 namespace Ui {
 class MainWindow;
